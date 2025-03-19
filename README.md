@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/jPcQNmHU)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14936313&assignment_repo_type=AssignmentRepo)
-
 # XNAP-FMA Music Genre Classification - Group 9
 Our project, Music Genre Classification, focuses on developing and applying deep learning models to classify music tracks into distinct genres. Utilizing the Free Music Archive (FMA) dataset, our goal is to leverage advanced deep learning techniques to accurately identify and categorize music based on its audio features. This ReadMe provides a comprehensive overview of our project, detailing the structure of our repository, the data used, the code implementation, the models explored, the training processes, and the results obtained, along with our conclusions. 
 
